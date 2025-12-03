@@ -3,7 +3,10 @@
 A multi-domain toolkit I built that combines mechanical, electrical, control systems, forex trading, and productivity tools. Basically everything I need in one place instead of switching between apps.
 
 ## Features
+##  Demo Video
+https://www.youtube.com/watch?v=5RhaWrhkUgU&feature=youtu.be
 
+A walkthrough demonstrating mechanical, electrical, control systems calculators, forex tools, and productivity features*
 ### Engineering Calculators
 
 #### Mechanical Calculator
