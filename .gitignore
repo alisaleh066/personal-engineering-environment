@@ -36,3 +36,13 @@
 *.exe
 *.out
 *.app
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# local build output
+apex
+*.exe
+*.o
